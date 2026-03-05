@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Rafael Espiña! a 3rd year Computer Science student
+- 👋 Hi, I’m Rafael Espiña! a 4th year Computer Science student
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning ---
 - 📫 How to reach me through my 
-- Email: espina.rafael1102@gmail.com 
+- Email: rafael.espina@proton.me
 - LinkedIn: https://www.linkedin.com/in/rafael-espi%C3%B1a-0a7204246/
 <!---
 - I would love to learn more about Game Development since I quickly get stuck at game development.
