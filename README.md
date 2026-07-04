@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 📫 How to reach me through my 
 - Email: rafael.espina@proton.me
-- LinkedIn: https://www.linkedin.com/in/rafael-espi%C3%B1a-0a7204246/
+- https://www.linkedin.com/in/rafael-espina1102/
 <!---
 - I would love to learn more about Game Development since I quickly get stuck at game development.
 
