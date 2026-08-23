@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael Espiña! a 4th year Computer Science student
+- 👋 Hi, I’m Rafael Espiña! a fresh graduate of Computer Science
 - 👀 I’m interested in Cybersecurity
 - 📫 How to reach me through my 
 - Email: rafael.espina@proton.me
