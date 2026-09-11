@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Espiña! a fresh graduate of Computer Science
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Software Development and Cybersecurity
 - 📫 How to reach me through my 
 - Email: rafael.espina@proton.me
 - https://www.linkedin.com/in/rafael-espina1102/
